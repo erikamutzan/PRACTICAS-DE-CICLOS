@@ -16,5 +16,8 @@ function printOutString() {
         stringFinal = stringFinal + " " + stringElementArray
     }
     return stringFinal;
-}
+} 
 console.log(printOutString());
+
+//JOIN
+console.log(arr.join(' '));
